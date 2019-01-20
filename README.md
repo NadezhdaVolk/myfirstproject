@@ -7,4 +7,4 @@
 
 [Lorem Ipsum](https://ru.lipsum.com)
 
-(https://lechu24.ru/uploads/blog/progulka-po-Stokgolmu/Stockholm-Sweden-Old-town-and-town-square-iStock_64526827_XLARGE-2.jpg)
+!(https://lechu24.ru/uploads/blog/progulka-po-Stokgolmu/Stockholm-Sweden-Old-town-and-town-square-iStock_64526827_XLARGE-2.jpg)
