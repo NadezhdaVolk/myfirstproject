@@ -7,4 +7,4 @@
 
 [Lorem Ipsum](https://ru.lipsum.com)
 
-![Stockholm](https://lechu24.ru/uploads/blog/progulka-po-Stokgolmu/Stockholm-Sweden-Old-town-and-town-square-iStock_64526827_XLARGE-2.jpg)
+![Stockholm](https://imgnooz.com/sites/default/files/styles/225x120/public/wallpaper/travel/66794/old-town-square-wallpapers-66794-6796921.jpg?itok=h8hBEgHw)
