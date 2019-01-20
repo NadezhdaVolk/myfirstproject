@@ -10,7 +10,7 @@
 ![Stockholm](https://imgnooz.com/sites/default/files/styles/225x120/public/wallpaper/travel/66794/old-town-square-wallpapers-66794-6796921.jpg?itok=h8hBEgHw)
 
 |*Предмет*  |*Количество*  |*Цена*|
-|-------|:-----:|-------|
+|-------|:-----:|-------:|
 |**Арбуз**  | 3 |150|
 |**Груша**  | 10 |230|
 |~~Вишня~~  |~~80~~|~~340~~|
